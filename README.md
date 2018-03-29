@@ -1,6 +1,5 @@
 # react-portfolio
 
-Live demo: stecor.github.io/chesed_website
 
 Live demo: [stecor.github.io/react-portfolio](http://stecor.github.io/react-portfolio)
 
